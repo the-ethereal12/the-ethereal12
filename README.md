@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Prerna Kumari 👋</h1>
+<h1 align="center">Hi there, I'm Prerna 👋</h1>
 
 <p align="center">
   <em>B.Tech Electronics & Communication Engineering | VLSI Design Enthusiast | 2nd Year</em>
